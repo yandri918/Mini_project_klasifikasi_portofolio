@@ -1,0 +1,26 @@
+id,jam_belajar,kehadiran,nilai_tugas,nilai_uts,ikut_bimbingan,akses_internet,lulus
+1,2,70,60,58,tidak,ya,0
+2,3,72,62,60,tidak,ya,0
+3,4,75,65,64,tidak,ya,0
+4,5,78,68,66,tidak,ya,0
+5,6,80,72,71,ya,ya,1
+6,7,84,76,75,ya,ya,1
+7,8,87,80,79,ya,ya,1
+8,9,90,84,83,ya,ya,1
+9,10,92,87,86,ya,ya,1
+10,11,95,90,89,ya,ya,1
+11,4,74,64,63,tidak,tidak,0
+12,5,77,67,65,tidak,ya,0
+13,6,81,73,72,ya,ya,1
+14,7,85,77,76,ya,,1
+15,8,88,81,80,ya,ya,1
+16,9,91,85,84,ya,ya,1
+17,10,93,88,87,ya,ya,1
+18,11,96,91,90,ya,ya,1
+18,11,96,91,90,ya,ya,1
+19,12,98,94,93,ya,ya,1
+20,dua belas,97,95,94,ya,ya,1
+21,3,,61,59,tidak,tidak,0
+22,6,82,,73,ya,ya,1
+23,7,86,78,,ya,ya,1
+24,2,68,58,55,tidak,tidak,0
